@@ -27,6 +27,6 @@ def calc():
                 print("Please enter a valid Number")         
             e = input("Do you want to exit the calculator(Yes/No) : ")
             if e.lower()=='yes':
-                    print("Calculate Closed")
+                    print("Calculator Closed")
                     break 
 calc()
